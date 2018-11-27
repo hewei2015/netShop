@@ -30,8 +30,8 @@ CREATE TABLE book(
     email VARCHAR(100)
  );
 ```
------
-- **代码整理不易，打赏一下呗**，打赏后请留言QQ：769801686，谢谢支持
+
+### **代码整理不易，打赏一下呗，一分也是爱**
 <img src="http://www.52vedio.com:8080/img/wx.jpg" width="256px" height="350px" />
 <img src="http://www.52vedio.com:8080/img/zfb.jpg" width="256px" height="350px" float="left"/>
-
+- 打赏后请留言，谢谢支持
