@@ -31,6 +31,6 @@ CREATE TABLE book(
  );
 ```
 ------
-[微信打赏一下](https://img-blog.csdnimg.cn/20181127113229815.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njk5MDE2ODY=,size_16,color_FFFFFF,t_70)
-[支付宝打赏一下](https://img-blog.csdnimg.cn/20181127113229815.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njk5MDE2ODY=,size_16,color_FFFFFF,t_70)
+![微信打赏一下](http://www.52vedio.com:8080/img/wx.jpg)
+![支付宝打赏一下](http://www.52vedio.com:8080/img/zfb.jpg)
 
