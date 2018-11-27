@@ -30,7 +30,8 @@ CREATE TABLE book(
     email VARCHAR(100)
  );
 ```
-------
-![微信打赏一下](http://www.52vedio.com:8080/img/wx.jpg)
-![支付宝打赏一下](http://www.52vedio.com:8080/img/zfb.jpg)
+-----
+- 打赏一下呗
+<img src="https://http://www.52vedio.com:8080/img/wx.jpg" width="256px" height="256" />
+<img src="https://http://www.52vedio.com:8080/img/jpg.jpg" width="256px" height="256" />
 
