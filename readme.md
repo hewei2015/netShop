@@ -34,4 +34,4 @@ CREATE TABLE book(
 ### **代码整理不易，打赏一下呗，一分也是爱**
 <img src="http://www.52vedio.com:8080/img/wx.jpg" width="256px" height="350px" />
 <img src="http://www.52vedio.com:8080/img/zfb.jpg" width="256px" height="350px" float="left"/>
-- 打赏后请留言，谢谢支持
+- 打赏后请留言或者发邮件咨询(hewei_work@foxmail.com)，谢谢支持。
