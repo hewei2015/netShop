@@ -32,6 +32,6 @@ CREATE TABLE book(
 ```
 -----
 - 打赏一下呗
-<img src="https://http://www.52vedio.com:8080/img/wx.jpg" width="256px" height="256" />
-<img src="https://http://www.52vedio.com:8080/img/jpg.jpg" width="256px" height="256" />
+<img src="http://www.52vedio.com:8080/img/wx.jpg" width="256px" height="256px" />
+<img src="http://www.52vedio.com:8080/img/jpg.jpg" width="256px" height="256px" />
 
